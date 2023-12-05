@@ -12,7 +12,7 @@ body {
 	 border:1px solid #f8f8f8;
 	 margin:20px;
 	 background:#ffffff;
-	 box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);
+	 box-shadow:2px 4px 8px rgba(46, 204, 113,0.2);
  }
 .book-library>h1{
 	font-size:20px;
@@ -32,6 +32,9 @@ body {
 .details{
 	padding:10px;
 }
+.details>h2{
+	font-size:20px;
+}
 .details>p{
 	color:#777777;
 	
@@ -41,4 +44,5 @@ body {
 	color:white;
 	background:#2ecc71;
 	border:none;
+	border-radius:3px;
 }
