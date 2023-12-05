@@ -9,7 +9,6 @@ body {
 
  .book-library {
 	 width:550px;
-	 border:1px solid #f8f8f8;
 	 margin:20px;
 	 background:#ffffff;
 	 box-shadow:2px 4px 8px rgba(0, 1, 1,0.2);
@@ -31,7 +30,6 @@ body {
 }
 .details{
 	padding:10px;
-	background:rgb(46, 204, 113);
 }
 .details>h2{
 	font-size:20px;
@@ -46,4 +44,5 @@ body {
 	background:#2ecc71;
 	border:none;
 	border-radius:3px;
+	padding:5px;
 }
