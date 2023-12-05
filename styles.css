@@ -39,7 +39,7 @@ body {
 .details>button{
 	width:100%;
 	color:white;
-	background:#2ecc71;
+	background:rgb(46, 204, 113);
 	border:none;
 	border-radius:3px;
 	padding:5px;
