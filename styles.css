@@ -31,18 +31,19 @@ body {
 }
 .details{
 	padding:10px;
+	background:rgb(46, 204, 113);
 }
 .details>h2{
 	font-size:20px;
 }
 .details>p{
 	color:#777777;
-	
+	font-size:15px;
 }
 .details>button{
 	width:100%;
 	color:white;
-	background:rgb(46, 204, 113);
+	background:#2ecc71;
 	border:none;
 	border-radius:3px;
 }
